@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello!  
+
+I'm Lauri, CS student at university of Helsinki. Happy to meet you!
 
 <!--
 **lauripalonen/lauripalonen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
