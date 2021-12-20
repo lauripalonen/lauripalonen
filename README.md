@@ -14,7 +14,7 @@ Feel free to peek around my repositories! Since you'll mostly find just stuff re
   - I wanted to learn how to make a [Discord](https://discord.com/) bot, so this was that study case 
   - Aimed for tabletop rpg sessions during a pandemic lockdown; should some of the remote adventurers not have a dice set of their own, they can utilise the dice throwing bot Arpanoid. 
 ### [Quiz log](https://github.com/lauripalonen/tietovisatietokanta) - Log for pub quiz questions
-  - Yet another Uni project, but made to serve a personal purpose; log the questions of a weekly pub quiz that I attend with my friends. From the data we can learn for example the most difficult quiz category for our team. 
+  - Yet another Uni project, but made to serve a personal purpose; log the questions of a weekly pub quiz that I attend with my friends. From the data we can for example learn the most difficult quiz category for our team. 
 
 ## About me 👀
 You may be able to decipher partly what kind of fellow I am by browsing through my repos, but let me save that trouble for you!  
